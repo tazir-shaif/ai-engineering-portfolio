@@ -1,0 +1,34 @@
+input,expected_output,actual_output,score,reason,improved_output,improved_score,improved_reason
+My Swiggy order is 45 minutes late and the food is cold. I want a refund.,"Apologise for the delay, offer full refund, ask for order ID to process it.","Hi there,
+
+I’m really sorry to hear that your order arrived 45 minutes late and the food was cold. That’s definitely not the experience we aim for. I’ve already initiated a full refund for you, and you should see the amount back in your account within 3–5 business days. If there’s anything else you need or if you’d like to share more details, please let me know.
+
+Thanks for your patience, and again, apologies for the inconvenience.",0.7,"The response apologises and offers a full refund, but it does not request the order ID needed to process the refund, missing one key element of the expected response.","Sorry to hear your order arrived 45 minutes late and cold. As per our policy, you are entitled to a full refund. Please share your order ID so we can process it promptly. We’ll also look into why the food was cold and ensure it doesn’t happen again.",1.0,"The response includes an apology, confirms a full refund per policy, and requests the order ID, meeting all expected criteria."
+I received the wrong items in my Zepto order. I ordered biryani but got pizza.,"Apologise for wrong order, offer replacement or full refund, ask for order ID.","Hi there,
+
+I’m really sorry to hear that you received the wrong item – that’s definitely not the experience we want for you. I’ve opened a ticket for your order and we’ll arrange a replacement for the biryani right away, or if you’d prefer, we can issue a full refund instead.
+
+Could you please share your order number so we can get this sorted out as quickly as possible? Thanks for your patience, and again, I apologize for the mix‑up.
+
+Best,  
+[Your Name]  
+Swiggy Support Team",1.0,"The response fully meets all expected criteria: it apologizes for the wrong order, offers both replacement and full refund options, and requests the order ID.","Hi, I’m really sorry you received pizza instead of biryani. We’ll arrange a replacement or full refund right away. Could you please share your order ID so we can process it? Thank you for your patience.",1.0,"The response includes a sincere apology, offers both replacement and full refund options, and requests the order ID, meeting all expected criteria."
+My Swiggy order was marked delivered but I never received it.,"Apologise sincerely, escalate to investigation team, offer full refund immediately.","Hi there,
+
+I’m really sorry you didn’t receive your order even though it was marked delivered. I’ve already initiated an immediate refund for the full amount, and you should see it reflected in your account within 3‑5 business days. If you need any further assistance or have any questions, just let me know.
+
+Thank you for your patience and for choosing Swiggy.",0.5,"The response apologizes sincerely and offers an immediate refund, but it does not mention escalation to an investigation team or request the order ID, which are key elements of the expected response.","I’m really sorry to hear that your order was marked delivered but you didn’t receive it. According to our policy, we’ll issue an immediate refund for the full amount. Please share your order ID so we can process the refund and forward the case to our investigation team for follow‑up. Thank you for your patience.",1.0,"The response includes a sincere apology, states that an immediate full refund will be issued, requests the order ID, and mentions forwarding the case to the investigation team, satisfying all expected criteria."
+I found a hair in my food from Swiggy. This is disgusting.,"Apologise sincerely for hygiene issue, offer full refund, escalate to restaurant quality team.","Hi there,
+
+I’m really sorry you found a hair in your order – that’s absolutely unacceptable. We’ll issue a full refund right away and flag the restaurant for a hygiene review. If there’s anything else we can do to make this right, please let me know.
+
+Thank you for bringing this to our attention.",0.7,"Apologised sincerely, offered a full refund, and flagged the restaurant for a hygiene review, but did not ask for the order ID.",I’m really sorry to hear about the hair in your food. We’ll issue a full refund and flag the restaurant for hygiene concerns. Could you please share your order ID so we can process this quickly?,1.0,"The response includes a sincere apology, offers a full refund, flags the restaurant for hygiene concerns, and requests the order ID, fully meeting all expected criteria."
+Swiggy charged me twice for the same order. I can see two debits on my bank statement.,"Apologise for double charge, assure refund of duplicate charge within 5-7 business days, ask for order ID.","Hi [Customer Name],
+
+I’m really sorry to hear about the duplicate charge on your account. I’ve checked our records and can confirm that the second debit will be refunded to your original payment method within the next 5‑7 business days, as per our policy.
+
+If you don’t see the refund after that period, please let me know and I’ll investigate further right away. Thanks for your patience and for choosing Swiggy!
+
+Warm regards,  
+[Your Name]  
+Swiggy Support Team",0.7,"The response apologizes, confirms the refund timeline, and offers further assistance, but it does not ask for the order ID, which is a key expected element.",Sorry to hear about the duplicate charge. We’ll refund the extra amount within 5‑7 business days. Could you please share the order ID so we can process it? Thank you for your patience.,1.0,"The response includes an apology, confirms a refund within 5‑7 business days, and requests the order ID, satisfying all expected criteria."
